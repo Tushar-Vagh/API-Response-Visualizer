@@ -51,34 +51,34 @@ Here’s a clean, simple, GitHub-ready README section with run steps, written in
 Follow the steps below to run Response Prism on your local machine.
 
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/response-prism.git
+#git clone https://github.com/Tushar-Vagh/response-prism.git
 
-cd response-prism
+#cd response-prism
 
 2️⃣ Install Dependencies
 
 Make sure Node.js (v16 or above) is installed.
 
-npm install
+#npm install
 
 
 or if you use yarn:
 
-yarn install
+#yarn install
 
 3️⃣ Start the Development Server
-npm run dev
+#npm run dev
 
 
 or:
 
-yarn dev
+#yarn dev
 
 4️⃣ Open in Browser
 
 Once the server starts, open:
 
-http://localhost:3000
+#http://localhost:3000
 
 
 You should now see the Response Prism application running locally 🎉
@@ -87,12 +87,12 @@ You should now see the Response Prism application running locally 🎉
 
 To create a production build:
 
-npm run build
+#npm run build
 
 
 To preview the production build:
 
-npm run preview
+#npm run preview
 
 📌 Notes
 
